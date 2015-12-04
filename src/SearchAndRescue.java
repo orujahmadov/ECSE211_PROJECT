@@ -1,13 +1,12 @@
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
-
 import lejos.nxt.LCD;
 import lejos.nxt.Motor;
 import lejos.nxt.NXTRegulatedMotor;
 import lejos.nxt.UltrasonicSensor;
 
-// TODO: Auto-generated Javadoc
+
 /**
  * The Class SearchAndRescue.
  */
